@@ -19,15 +19,15 @@
 
 4. 待右侧相继出现识别结果后，点击“生成魔方”。
 
-   [CubeSolution/1.png at main · biganabc/CubeSolution (github.com)](https://github.com/biganabc/CubeSolution/blob/main/readmeImgs/1.png)
+   ![CubeSolution/1.png at main · biganabc/CubeSolution (github.com)](https://github.com/biganabc/CubeSolution/blob/main/readmeImgs/1.png)
 
 5. 点击“开始旋转”调用魔方求解程序，提示图片消失表示求解完成，将自动展示旋转过程。
 
-   [CubeSolution/2.png at main · biganabc/CubeSolution (github.com)](https://github.com/biganabc/CubeSolution/blob/main/readmeImgs/2.png)
+   ![CubeSolution/2.png at main · biganabc/CubeSolution (github.com)](https://github.com/biganabc/CubeSolution/blob/main/readmeImgs/2.png)
 
 6. 最后给出复原结果：
 
-   [CubeSolution/3.png at main · biganabc/CubeSolution (github.com)](https://github.com/biganabc/CubeSolution/blob/main/readmeImgs/3.png)
+   ![CubeSolution/3.png at main · biganabc/CubeSolution (github.com)](https://github.com/biganabc/CubeSolution/blob/main/readmeImgs/3.png)
 
 ## 代码结构
 
